@@ -13,15 +13,18 @@ FindMyName will check all avaiable prefix and suffix of your Instagram name. You
 ```sh
 $ cd findmyname
 $ npm install -d
-$ npm run script
 ```
 
-#### Configuration
+#### Configuration & Run
 
   - Open index.js in your editor.
   - Put in your Instagram username and password (recommend using a spare account).
   - Configurate your search options. Recommend going from 2 characters for fewer search. Always have a higher time interval. (use at your own risk!)
   - If you want to search suffix change it to true.
+  - To run script:
+```sh
+$ npm run script
+```
 
 ### Tech
 
