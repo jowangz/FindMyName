@@ -6,15 +6,9 @@ FindMyName will check all avaiable prefix and suffix of your Instagram name. You
 
 ### Installation
 
-<<<<<<< HEAD
   - [Node.js] installation is required
   - [Chrome] installation is required
   - [ChromeDriver] installation is required, the defualt Chrome Driver included in this repository is v.76, download the matching verison for your Chrome.
-=======
-  - Name Checker requires [Node.js] to run.
-  - [Chrome] installed!!
-  - [ChromeDriver] is needed, the defualt Chrome Driver included in this repository is v.76, download the matching verison for your Chrome.
->>>>>>> 2b5c6a95c45b58aeb8d1ca0e4e19ba4d3d0ea931
 
 ```sh
 $ cd findmyname
