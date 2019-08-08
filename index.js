@@ -2,8 +2,8 @@ import {init, runScript} from './lib/scraper'
 
 // credentials
 const credentials = {
-    username: '',
-    password: ''
+    username: 'sums.co',
+    password: 'niubige101'
 }
 
 // search options
