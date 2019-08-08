@@ -1,7 +1,7 @@
 # FindMyName - for Instagram
 
 
-FindMyName will check all avaiable affix and suffix of your instagram name. You will just need to provide a Instagram name and a number of characters your want to check for the affix or suffix.
+FindMyName will check all avaiable prefix and suffix of your Instagram name. You will just need to provide a Instagram name and a number of characters your want to check for the affix or suffix.
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
@@ -22,8 +22,8 @@ $ npm run script
 #### Configuration
 
 Open index.js in your editor.
-Put in your instagram username and password (recommand using a spare account).
-Configurate your search options. Recommand going from 2 characters for fewer search. Always have a higher time interval. (use at your own risk!)
+Put in your Instagram username and password (recommend using a spare account).
+Configurate your search options. Recommend going from 2 characters for fewer search. Always have a higher time interval. (use at your own risk!)
 If you want to search suffix change it to true.
 
 ### Tech
