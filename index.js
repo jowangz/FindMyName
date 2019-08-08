@@ -8,7 +8,7 @@ const credentials = {
 
 // search options
 const searchOptions = {
-    name: "wang",
+    name: "test",
     numOfCharacters: 2,
     suffix: false
 };
